@@ -1,0 +1,46 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-family: 'Alkatra', cursive;
+    background-color:azure;
+    color:blueviolet;
+    font-size: 60px;
+
+}
+#p1{
+    background-color: azure;
+    color:blue;
+
+}
+.p1{
+    background-color:aquamarine;
+    color:black;
+}
+#p2{
+    background-color:beige;
+    color:blueviolet;
+    font-size: 20px;
+    font-style: italic;
+}
+p{
+    background-color:beige;
+    color:brown;
+    font-size: 20px;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+img[alt]{
+    color:bisque;
+    background-color:black
+}
+#p3:hover{
+    background-color: blue;
+    color:black;
+}
+body{
+    background: linear-gradient(to left, lightpink, pink, )
+}
