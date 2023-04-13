@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    /* height:300px;
+    /* object-fit:cover;*/ /*if the image is streched */
+
+}
+
+.container{
+    border: 5px solid black;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px auto;
+    justify-content:center;
+    /* gap:10px; */
+
+}

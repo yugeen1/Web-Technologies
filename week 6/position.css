@@ -1,0 +1,28 @@
+.parent{
+    height: 1000vh;
+    background-color:antiquewhite;
+    width:50%;
+    border: 5px dashed wheat;
+}
+.box{
+    width: 250px;
+    height: 400px;
+    border: 1px dotted peru
+}
+.box1{
+    background-color: aliceblue;
+    position:static
+}
+.box2{
+    background-color:aqua;
+    
+}
+.box3{
+    background-color:blue;
+}
+.box4{
+    background-color:burlywood;
+}
+.box5{
+    background-color:cadetblue;
+}

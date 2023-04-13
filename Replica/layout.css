@@ -1,0 +1,31 @@
+body{
+    background-color:darkseagreen;
+    color: white;
+
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+.parent{
+    width: 100%;    
+}
+.daughter{
+    width:65%;
+    float:left;
+}
+.son{
+    width:30%;
+    float:right;   
+}
+img{
+    width:100%;
+    height: 100%
+}
+p{  
+    font-family:'Courier New', Courier, monospace;
+    font-size:16px ;
+    text-align:left;
+}
+
+

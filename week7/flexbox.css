@@ -1,0 +1,32 @@
+.flex{
+    width:100%;
+    background-color: dimgrey;
+    border: 3px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px
+}
+.box{
+    width:300px;
+    height:300px;
+
+}
+.box1{
+    background-color: pink;
+}
+.box2{
+    background-color:darkslategrey
+}
+.box3{
+    background-color:wheat
+}
+.box4{
+    background-color:deeppink
+}
+.box5{
+    background-color:blueviolet
+}
+.box6{
+    background-color:blue
+}

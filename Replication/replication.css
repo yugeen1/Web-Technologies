@@ -1,0 +1,26 @@
+.grid{
+    width:100%;
+    background-color:darkslategrey;
+    display: grid;
+}
+.box{
+    width:50%;
+    height:70%;
+}
+.box1{
+    background-color:aqua;
+}
+.box2{
+    background-color:black;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    text-align: center;
+    font-size:xx-large;
+}
+p{
+    font-size:medium;
+
+}
+
